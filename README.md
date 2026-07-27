@@ -15,7 +15,7 @@ I turn raw, messy data into clear decisions — budget variance analysis, KPI da
 - 🧹 Nettoyage et structuration de données brutes pour en tirer des insights exploitables
 
 ### 📌 Featured project
-**[Budget Variance Analysis](https://github.com/landrycoffi3/budget-variance-analysis)** — Automated real-vs-budget variance reporting (Python + SQL) simulating a real controlling mission: KPI tracking, recurring underperformance detection, and monthly dashboards.
+**[Budget Variance Analysis](https://github.com/landrycoffi3-beep/budget-variance-analysis)** — Automated real-vs-budget variance reporting (Python + SQL) simulating a real controlling mission: KPI tracking, recurring underperformance detection, and monthly dashboards.
 
 ### 🌍 Background
 Experience across financial reporting (Cabinet HNACIS), customer data analytics (MOOV Côte d'Ivoire), and banking compliance/KPI reporting (Banque du Trésor Public). Currently based in Sèvres, France — open to 6-month internships in data analysis, business analysis, or contrôle de gestion.
